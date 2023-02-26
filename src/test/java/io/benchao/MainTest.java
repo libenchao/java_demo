@@ -8,4 +8,9 @@ public class MainTest {
     public void testXXX() {
         // works
     }
+
+    @Test
+    public void testYYY() {
+        // works
+    }
 }
